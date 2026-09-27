@@ -1,0 +1,72 @@
+! ===== Google Ads / DoubleClick =====
+||googleads.g.doubleclick.net^
+||ad.doubleclick.net^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||googlesyndication.com^
+||googleadservices.com^
+||adservice.google.com^
+||ads.google.com^
+||partner.googleadservices.com^
+||pubads.g.doubleclick.net^
+||doubleclick.net^
+
+! ===== Meta Ads =====
+||ads.facebook.com^
+||graph.facebook.com^
+||an.facebook.com^
+||facebook.com/tr^
+||facebook.com/ads^
+||ads.instagram.com^
+||i.instagram.com/api/v1/ads/^
+||connect.facebook.net^
+
+! ===== Taboola =====
+||taboola.com^
+||cdn.taboola.com^
+||trc.taboola.com^
+||images.taboola.com^
+||api.taboola.com^
+
+! ===== Outbrain =====
+||outbrain.com^
+||widgets.outbrain.com^
+||odb.outbrain.com^
+||images.outbrainimg.com^
+||amplify.outbrain.com^
+
+! ===== MGID =====
+||mgid.com^
+||cdn.mgid.com^
+||jsc.mgid.com^
+||serving.mgid.com^
+||mgidnetwork.com^
+
+! ===== Amazon Ads =====
+||amazon-adsystem.com
+||aax.amazon-adsystem.com
+||aax-us-east.amazon-adsystem.com
+||aax-eu.amazon-adsystem.com
+||fls-na.amazon-adsystem.com
+||fls-eu.amazon-adsystem.com
+||rcm-na.amazon-adsystem.com
+||ads.amazon.com
+||advertising.amazon.com
+||advertising-api.amazon.com
+|advice-ads.s3.amazonaws.com
+|adtago.s3.amazonaws.com
+
+! ===== X / Twitter Ads =====
+||ads.twitter.com
+||ads.x.com
+||ads-twitter.com
+||static.ads-twitter.com
+||ads-api.twitter.com
+||analytics.twitter.com
+
+! ===== TikTok Ads =====
+||ads.tiktok.com
+||ads-api.tiktok.com
+||ads-sg.tiktok.com
+
+||analytics.tiktok.com
