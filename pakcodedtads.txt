@@ -1,0 +1,168 @@
+! ===== Google Ads / DoubleClick =====
+||googleads.g.doubleclick.net^
+||ad.doubleclick.net^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+||googlesyndication.com^
+||googleadservices.com^
+||adservice.google.com^
+||ads.google.com^
+||partner.googleadservices.com^
+||pubads.g.doubleclick.net^
+||doubleclick.net^
+
+! ===== Meta Ads =====
+||ads.facebook.com^
+||graph.facebook.com^
+||an.facebook.com^
+||facebook.com/tr^
+||facebook.com/ads^
+||ads.instagram.com^
+||i.instagram.com/api/v1/ads/^
+||connect.facebook.net^
+
+! ===== Taboola =====
+||taboola.com^
+||cdn.taboola.com^
+||trc.taboola.com^
+||images.taboola.com^
+||api.taboola.com^
+
+! ===== Outbrain =====
+||outbrain.com^
+||widgets.outbrain.com^
+||odb.outbrain.com^
+||images.outbrainimg.com^
+||amplify.outbrain.com^
+
+! ===== MGID =====
+||mgid.com^
+||cdn.mgid.com^
+||jsc.mgid.com^
+||serving.mgid.com^
+||mgidnetwork.com^
+
+! ===== Amazon Ads =====
+||amazon-adsystem.com
+||aax.amazon-adsystem.com
+||aax-us-east.amazon-adsystem.com
+||aax-eu.amazon-adsystem.com
+||fls-na.amazon-adsystem.com
+||fls-eu.amazon-adsystem.com
+||rcm-na.amazon-adsystem.com
+||ads.amazon.com
+||advertising.amazon.com
+||advertising-api.amazon.com
+|advice-ads.s3.amazonaws.com
+|adtago.s3.amazonaws.com
+
+! ===== X / Twitter Ads =====
+||ads.twitter.com
+||ads.x.com
+||ads-twitter.com
+||static.ads-twitter.com
+||ads-api.twitter.com
+||analytics.twitter.com
+
+! ===== TikTok Ads =====
+||ads.tiktok.com
+||ads-api.tiktok.com
+||ads-sg.tiktok.com
+
+||analytics.tiktok.com
+
+
+!YouTube reklamları
+!EasyList ve uBlock filtrelerinden alınmıştır
+_reklama_$domain=~youtube.com
+ads.google.com,youtube.com#@#.video-ads
+||youtube.com/embed/C-iDzdvIg1Y$domain=biznews.com
+||googlesyndication.com^$domain=blogto.com|youtube.com
+||youtube.com/pagead/
+||youtube.com/youtubei/v1/player/ad_break
+@@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
+||m.youtube.com/get_midroll_$domain=youtube.com
+||www.youtube.com/get_midroll_$domain=youtube.com
+||youtube.com/get_video_info?*adunit$~third-party
+1sale.com,7billionworld.com,9jaflaver.com,appdoze.net,bestcrazygames.com,canstar.com.au,canstarblue.co.nz,cheapies.nz,climatechangenews.com,cointribune.com,cosmeticsbusiness.com,cryptonomist.ch,currencyrate.today,daily-sun.com,eventcinemas.co.nz,ezgif.com,gagadget.com,gamesadshopper.com,geo.tv,govtrack.us,gramfeed.com,hentaikun.com,herzindagi.com,hockeyfeed.com,i24news.tv,icons8.com,idiva.com,indiatimes.com,inspirock.com,islamchannel.tv,m.economictimes.com,mangasect.com,mb.com.ph,medicalxpress.com,mehrnews.com,meta-calculator.com,mini-ielts.com,motogp.com,mugshots.com,nbc.na,news.nom.co,nsfwyoutube.com,onlinerekenmachine.com,onlymyhealth.com,ozbargain.com.au,piliapp.com,pixiv.net,readcomicsonline.ru,recipes.net,robuxtousd.com,russia-insider.com,savevideo.me,search.illicit.pw,sgcarmart.com,sherdog.com,straitstimes.com,teamblind.com,tehrantimes.com,thatmaidguy.su,thedailyjagran.com,thenews.com.pk,thestar.com.my,unb.com.bd,viamichelin.com,viamichelin.ie,vijesti.me,y8.com,yummy.ph##.ads
+ssyoutube.com##.b-widget-left
+nsfwyoutube.com##img[src*="data"]
+youtube.com###contents > ytd-rich-item-renderer:has(> ytd-ad-slot-renderer)
+youtube.com###description-inner > ytd-merch-shelf-renderer > #main.ytd-merch-shelf-renderer
+youtube.com###shopping-timely-shelf
+youtube.com###shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)
+youtube.com###sticker-layer
+youtube.com##.ytReelMetapanelViewModelHost > .ytReelMetapanelViewModelMetapanelItem > .ytShortsSuggestedActionViewModelStaticHost
+youtube.com##.ytd-section-list-renderer > .ytd-item-section-renderer > ytd-search-pyv-renderer.ytd-item-section-renderer
+youtube.com##.ytd-two-column-browse-results-renderer > ytd-rich-grid-renderer > #masthead-ad.ytd-rich-grid-renderer
+youtube.com##.ytd-watch-flexy > .ytd-watch-next-secondary-results-renderer > ytd-ad-slot-renderer.ytd-watch-next-secondary-results-renderer
+youtube.com##.ytd-watch-flexy > ytd-merch-shelf-renderer > #main.ytd-merch-shelf-renderer
+youtube.com##.ytp-suggested-action > .ytp-suggested-action-badge
+m.youtube.com##lazy-list > ad-slot-renderer
+youtube.com##yt-overlay-product-sticker
+youtube.com##ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
+m.youtube.com##ytm-companion-slot[data-content-type] > ytm-companion-ad-renderer
+m.youtube.com##ytm-rich-item-renderer > ad-slot-renderer
+youtube.com##.grid.ytd-browse > #primary > .style-scope > .ytd-rich-grid-renderer > .ytd-rich-grid-renderer > .ytd-ad-slot-renderer
+youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-rich-item-renderer > .ytd-ad-slot-renderer.style-scope
+youtube.com##ytd-item-section-renderer > .ytd-item-section-renderer > ytd-ad-slot-renderer.style-scope
+@@||music.youtube.com^$generichide
+@@||tv.youtube.com^$generichide
+@@||www.youtube.com^$generichide
+youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots legacyImportant)
+www.youtube.com##+js(rpnt, script, /(\(function serverContract\(\)|^if \(window\.ytcsi)/, (()=>{if("YOUTUBE_PREMIUM_LOGO"===window.ytInitialData?.topbar?.desktopTopbarRenderer?.logo?.topbarLogoRenderer?.iconImage?.iconType||"YOUTUBE_PREMIUM_LOGO"===document.getElementById("masthead").attributes["logo-type"].value||location.href.startsWith("https://www.youtube.com/tv#/")||location.href.startsWith("https://www.youtube.com/embed/"))return;const e=window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent\,t=["channel"\,"lactmilli"\,"instream"\,"yahi"];let r=!1\,o=t;const n=t=>{if(t){let r=e?.match?.(/Mozilla\/5\.0 \([^)]+/)?.[0];window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent=r?e.replace?.(r\,r+"; "+t):e}else window.ytcfg.data_.INNERTUBE_CONTEXT.client.userAgent=e}\,a=()=>{let e=document.getElementById("movie_player");return{player:e\,response:e?.getPlayerResponse?.()\,stats:e?.getStatsForNerds?.()\,progress:e?.getProgressState?.()\,buffer:e?.getPlayerStateObject?.()?.isBuffering}}\,s=(e\,t\,r)=>e&&"0.00 s"===t?.buffer_health_seconds&&"0x0"===t?.resolution&&r.length>0\,l=()=>{let{player:e\,response:t\,stats:n\,buffer:l}=a();e&&s(l\,n\,o)&&(t?.playbackTracking?.videostatsPlaybackUrl?.baseUrl?.includes?.("reloadxhr")&&(o=o.slice(1))\,r=!0)};document.addEventListener("DOMContentLoaded"\,(function(){const e=()=>{let e\,l\,{player:i\,response:d\,stats:c\,progress:p\,buffer:y}=a();if(i&&window.location.href.includes("/watch?")){if(p&&p.duration>0&&(p.loaded<p.duration||p.duration-p.current>1)||d?.videoDetails?.isLive){if(!c?.debug_info?.startsWith?.("SSAP\, AD")){const t=d.videoDetails?.videoId\,a=d.playerConfig?.playbackStartConfig?.startSeconds??0\,u=d.playabilityStatus?.errorScreen\,g=JSON.stringify(u?.playerErrorMessageRenderer?.subreason?.runs||u?.playerInterstitialRenderer?.content?.interstitialViewModel?.description?.commandRuns);return void("UNPLAYABLE"===d?.playabilityStatus?.status&&!u?.playerErrorMessageRenderer?.playerCaptchaViewModel&&g?.includes?.("WEB_PAGE_TYPE_UNKNOWN")&&g?.includes?.("https://support.google.com/youtube/answer/3037019")?(o=o.slice(1)\,o.length>0?n(o[0]):n("")\,r=!1\,i.loadVideoById(t\,a)):0===o.length?(r=!1\,n("")):s(y\,c\,o)&&r?(n(o[0])\,r=!1\,i.loadVideoById(t\,a)):!r&&p.current-a<5&&location.href.includes("&list=")&&null===i.getPlaylistId?.()&&(e=document.querySelector("yt-playlist-manager")\,l=e?.getPlaylistData?.()\,l&&(e.setPlaylistData?.(l)\,e.setPlayerPlaybackControlData?.({playlistPanelRenderer:l}))))}p.duration>0&&i.seekTo?.(p.duration)}}else o=t};e()\,new MutationObserver((()=>{e()})).observe(document\,{childList:!0\,subtree:!0})}))\,window.Map.prototype.has=new Proxy(window.Map.prototype.has\,{apply:(e\,t\,o)=>("onSnackbarMessage"!==o?.[0]||r||l()\,Reflect.apply(e\,t\,o))})\,window.Array.prototype.push=new Proxy(window.Array.prototype.push\,{apply:(e\,t\,r)=>{let o=r?.[0];return!o||"object"!=typeof o||"Uint8Array"!==o.constructor.name||o.buffer?.byteLength!==o.length||105!==o.length&&104!==o.length||l()\,Reflect.apply(e\,t\,r)}});const i={apply:(e\,t\,r)=>{const o=r[0];return"function"==typeof o&&o.toString().includes("onAbnormalityDetected")&&(r[0]=function(){})\,Reflect.apply(e\,t\,r)}};window.Promise.prototype.then=new Proxy(window.Promise.prototype.then\,i)})();$1, sedCount, 1, excludes, MutationObserver, condition, /serverContract|js_ld/)
+www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent*="channel"].context.client[?.clientName=="WEB"]+={"clientScreen":"CHANNEL"}, propsToMatch, /player?)
+www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent*="lactmilli"]+={"params":"8AUB"}, propsToMatch, /player?)
+www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent*="yahi"]+={"params":"YAHI"}, propsToMatch, /player?)
+www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent*="instream"].playbackContext[?.contentPlaybackContext]+={"adPlaybackContext":{"adType":"AD_TYPE_INSTREAM"}}, propsToMatch, /player?)
+www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent=/channel|lactmilli|instream/].playbackContext.contentPlaybackContext.lactMilliseconds="${now}", propsToMatch, /player?)
+www.youtube.com##+js(trusted-json-edit-xhr-request, [?.context.client.userAgent=/adunit|channel|lactmilli|instream|inline|yahi|eafg/].playbackContext.contentPlaybackContext.referer=repl({"regex":"(?:#reloadxhr)?$"\,"replacement":"#reloadxhr"}), propsToMatch, /player?)
+www.youtube.com##+js(set, ytcfg.data_.EXPERIMENT_FLAGS.all_web_enable_network_machine, false)
+www.youtube.com##+js(set, ytcfg.data_.EXPERIMENT_FLAGS.all_web_network_machine_raw_request, false)
+www.youtube.com##+js(trusted-replace-argument, String.prototype.split, this, repl:/all_web_enable_network_machine=true&all_web_network_machine_raw_request=true/all_web_enable_network_machine=false&all_web_network_machine_raw_request=false/, condition, H5_async_logging_delay_ms=)
+www.youtube.com##+js(nano-stb, [native code], 17000, 0.001)
+www.youtube.com##+js(json-prune-fetch-response, adPlacements adSlots playerResponse.adPlacements playerResponse.adSlots [].playerResponse.adPlacements [].playerResponse.adSlots, , propsToMatch, /player?)
+www.youtube.com##+js(json-prune-fetch-response, adPlacements adSlots playerResponse.adPlacements playerResponse.adSlots, , propsToMatch, /playlist?)
+www.youtube.com##+js(json-prune-xhr-response, adPlacements adSlots playerResponse.adPlacements playerResponse.adSlots [].playerResponse.adPlacements [].playerResponse.adSlots, , propsToMatch, /\/player(?:\?.+)?$/)
+tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|\/player(?:\?.+)?$|watch\?[tv]=/)
+www.youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,/, , /playlist\?list=|\/player(?:\?.+)?$|watch\?[tv]=/)
+www.youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?("adSlots"|"adBreakHeartbeatParams")/gms, $1, /\/player(?:\?.+)?$/)
+www.youtube.com##+js(trusted-replace-fetch-response, '"adPlacements"', '"no_ads"', player?)
+www.youtube.com##+js(trusted-replace-fetch-response, '"adSlots"', '"no_ads"', player?)
+www.youtube.com##+js(trusted-replace-fetch-response, '"adSlots"', '"no_ads"', /^\W+$/)
+www.youtube.com##+js(rmnt, script, window\,"fetch")
+||www.youtube.com/playlist?list=$xhr,1p,replace=/"adPlacements"/"no_ads"/
+||www.youtube.com/playlist?list=$xhr,1p,replace=/"adSlots"/"no_ads"/
+||www.youtube.com/watch?$xhr,1p,replace=/"adPlacements"/"no_ads"/
+||www.youtube.com/watch?$xhr,1p,replace=/"adSlots"/"no_ads"/
+||www.youtube.com/youtubei/v1/player?$xhr,1p,replace=/"adPlacements"/"no_ads"/
+||www.youtube.com/youtubei/v1/player?$xhr,1p,replace=/"adSlots"/"no_ads"/
+||youtube.com/youtubei/v1/get_watch?$xhr,1p,replace=/"adPlacements"/"no_ads"/
+||youtube.com/youtubei/v1/get_watch?$xhr,1p,replace=/"adSlots"/"no_ads"/
+
+www.youtube.com##^script[id]:has-text(window,"fetch")
+www.youtube.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, fetch)
+www.youtube.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, Request)
+www.youtube.com##+js(trusted-prevent-dom-bypass, Node.prototype.appendChild, JSON.parse)
+youtube.com##+js(json-prune, entries.[-].command.reelWatchEndpoint.adClientParams.isAd)
+youtube.com#@##player-ads
+www.youtube.com##+js(trusted-replace-fetch-response, '"adSlots"', '"no_ads"', /get_watch?)
+/\.googlevideo\.com\/videoplayback\?expire=(?:[02-9]\d+|1[1-68-9]\d+|17[1-7]\d+)&/$xhr,3p,method=get,domain=www.youtube.com
+||youtube.com/api/stats/atr?ns=*&ver=2&cmt=1.*&fs=0&*&euri&lact=$xhr,method=post,badfilter
+*_ad_$media,domain=youtube.com,3p
+m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.playerAds, undefined)
+m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
+m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adSlots, undefined)
+m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
+m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots important)
+youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container > .yt-virtual-list__item--visible.yt-virtual-list__item--selected.yt-virtual-list__item:has-text(Ad)
+||googlevideo.com/initplayback?source=youtube&*c=TVHTML5&*oad=$xhr,domain=youtube.com
+m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune-fetch-response, reelWatchSequenceResponse.entries.[-].command.reelWatchEndpoint.adClientParams.isAd entries.[-].command.reelWatchEndpoint.adClientParams.isAd, , propsToMatch, url:/reel_watch_sequence?)
+m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, entries.[-].command.reelWatchEndpoint.adClientParams.isAd)
+||youtube.com/get_video$media,redirect=noopmp4-1s,domain=games2rule.com
+*$frame,denyallow=facebook.com|google.com|youtube.com,domain=foxseotools.com
+*$frame,denyallow=cloudflare.com|facebook.com|google.com|hcaptcha.com|youtube.com|jungleofferwall.com,domain=dutchycorp.*
+*$script,3p,denyallow=cloudflare.net|fastly.net|google.com|googleapis.com|gstatic.com|jwpcdn.com|jsdelivr.net|eastream.net|youtube.com|ytimg.com,domain=vidfast.co
+*$frame,denyallow=cloudflare.com|facebook.com|google.com|hcaptcha.com|youtube.com,domain=fc.lc|fc-lc.com
+||goodnewsnetwork.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.googletagservices.com *.wp.com *.air.tv *.addthis.com *.cloudflare.com *.facebook.net *.facebook.com *.gstatic.com *.youtube.com *.ytimg.com *.google.com *.googletagmanager.com *.instagram.com
+||youtube.com/embed/*$domain=1shortlink.com
