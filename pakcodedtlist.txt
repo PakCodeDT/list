@@ -71,4 +71,5 @@
 ||ads-sg.tiktok.com
 ||analytics.tiktok.com
 
+{newpipe.net;newpipe.com}
 ||medya.ilan.gov.tr^$third-party
