@@ -70,7 +70,7 @@
 ||ads-api.tiktok.com
 ||ads-sg.tiktok.com
 ||analytics.tiktok.com
-
+{github.com;gihub.com}
 {newpipe.net;newpipe.com}
 {türkiye.gov.tr;mdevlet.com}
 ||medya.ilan.gov.tr^$third-party
