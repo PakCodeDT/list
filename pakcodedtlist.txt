@@ -71,7 +71,7 @@
 ||ads-sg.tiktok.com
 ||analytics.tiktok.com
 {github.com;gihub.com}
-{newpipe.net;newpipe.com}
+{newpipe.net;newpipe.com,newpipe.app}
 {türkiye.gov.tr;mdevlet.com}
 ||medya.ilan.gov.tr^$third-party
 ||youtube.com^$third-party
