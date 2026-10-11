@@ -21,11 +21,13 @@
 @@||i.ytimg.com^$domain=youtube.com
 @@||googlevideo.com^$domain=youtube.com
 
-@@||fbcdn.net^$domain=facebook.com|instagram.com
-@@||static.cdninstagram.com^$domain=instagram.com
+@@||static.cdninstagram.com^$domain=facebook.com|instagram.com|threads.com
+@@||static.xx.fbcdn.net^$domain=facebook.com|instagram.com|threads.com
+@@||www.instagram.com^$domain=facebook.com|threads.com
+@@||www.threads.net^$domain=facebook.com|instagram.com|threads.com
+@@||fbcdn.net^$domain=facebook.com|instagram.com|threads.com
 @@||auth.meta.com^$domain=facebook.com|instagram.com
-@@||www.instagram.com^$domain=facebook.com|instagram.com
-@@||facebook.com^$domain=facebook.com|instagram.com
+@@||facebook.com^$domain=instagram.com
 @@||auth.meta.ai^$domain=meta.ai
 @@||www.meta.ai^$domain=meta.ai
 @@||capcutstatic.com^$domain=www.capcut.com
