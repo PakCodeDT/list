@@ -72,6 +72,7 @@
 ||analytics.tiktok.com
 
 {newpipe.net;newpipe.com}
-
 {türkiye.gov.tr;mdevlet.com}
 ||medya.ilan.gov.tr^$third-party
+||youtube.com^$third-party
+
